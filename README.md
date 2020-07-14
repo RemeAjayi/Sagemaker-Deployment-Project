@@ -5,4 +5,4 @@ The notebook and Python files provided here, once completed, result in a simple 
 "# Sagemaker-Deployment-Project" 
 
 
-![Screenshot of webapp](web_app_screenshot (1).png)
+![Screenshot of webapp](https://github.com/RemeAjayi/Sagemaker-Deployment-Project/blob/master/web_app_screenshot%20(1).png)
